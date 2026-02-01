@@ -45,6 +45,9 @@ A WMS is software that manages inventory, tracks item locations, and assigns tas
 ### Robotic Arm DOF
 ![Robotic Arm DOF](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/5443c8b610e9b472dd152e8d80bdf4b893df2ad8/Robotic%20Arm%20DOF.png)
 
+### Equivalent Stress Analysis (ANSYS)
+![Equivalent Stress Analysis](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/251402bf10bf421488a8178499ab7ea2e7255baf/Equivalent%20Stress%20Analysis.png)
+
 ## Project Structure
 
 AGRAV/
