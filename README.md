@@ -53,6 +53,7 @@ A WMS is software that manages inventory, tracks item locations, and assigns tas
 
 ### Android App Interface
 ![Android App Interface](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/1d2d52493acb7f46f889830025c187b239f0133f/APP%20UI%201.png)
+
 ![Android App Interface](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/7dd47a3b7c4bbeccde1131fd85ea1e34ebb09ac4/APP%20UI%202.png)
 
 ## Project Structure
