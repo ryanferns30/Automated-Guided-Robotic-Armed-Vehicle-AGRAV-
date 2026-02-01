@@ -51,6 +51,9 @@ A WMS is software that manages inventory, tracks item locations, and assigns tas
 ### Total Deformation Analysis (ANSYS)
 ![Total Deformation Analysis](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/869564cec5a0b97184eb77ae6dffd51c1fbec3de/Total%20Deformation%20Analysis.png)
 
+### Android App Interface
+![Android App Interface](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/1d2d52493acb7f46f889830025c187b239f0133f/APP%20UI%201.png)
+
 ## Project Structure
 
 AGRAV/
