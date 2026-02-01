@@ -59,11 +59,11 @@ A WMS is software that manages inventory, tracks item locations, and assigns tas
 ## Project Structure
 
 AGRAV/
-├── cad/ # CAD models (Fusion 360)
-├── code/ # Arduino and Android app code
-├── analysis/ # ANSYS analysis files
-├── images/ # Project images
-├── report/ # Full project report
+├── cad/              # Fusion 360 CAD files
+├── code/             # Arduino + Android app source
+├── analysis/         # ANSYS simulation results
+├── images/           # Project images and screenshots
+├── report/           # Final project report (PDF)
 └── README.md
 
 ## Android App
@@ -107,7 +107,7 @@ A custom Android app was developed using **MIT App Inventor** to manually contro
 ## Documentation
 
 - Full project report available in `/Project Report.pdf`
-- Arduino and Android app code in `/App` and '/Robotic Arm Code.ino'
+- Arduino and Android app code in `/App` and `/Robotic Arm Code.ino` 
 - CAD models in `/Cad files`
 
 ## Team
