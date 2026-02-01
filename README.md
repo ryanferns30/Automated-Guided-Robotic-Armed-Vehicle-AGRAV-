@@ -48,6 +48,9 @@ A WMS is software that manages inventory, tracks item locations, and assigns tas
 ### Equivalent Stress Analysis (ANSYS)
 ![Equivalent Stress Analysis](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/251402bf10bf421488a8178499ab7ea2e7255baf/Equivalent%20Stress%20Analysis.png)
 
+### Total Deformation Analysis (ANSYS)
+![Total Deformation Analysis](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/869564cec5a0b97184eb77ae6dffd51c1fbec3de/Total%20Deformation%20Analysis.png)
+
 ## Project Structure
 
 AGRAV/
