@@ -39,6 +39,9 @@ A WMS is software that manages inventory, tracks item locations, and assigns tas
 ### AGRAV Prototype
 ![AGRAV Prototype](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/780958a511f33ec9a4d110b38585226d66f30f79/AGRAV%20MODEL.jpg)
 
+### CAD Model
+![CAD Model](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/6202ff4b28d680c40763abf8fb3c205e8188d024/CAD%20MODEL.png)
+
 ## Project Structure
 
 AGRAV/
