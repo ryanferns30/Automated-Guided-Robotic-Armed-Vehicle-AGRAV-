@@ -42,6 +42,9 @@ A WMS is software that manages inventory, tracks item locations, and assigns tas
 ### CAD Model
 ![CAD Model](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/6202ff4b28d680c40763abf8fb3c205e8188d024/CAD%20MODEL.png)
 
+### Robotic Arm DOF
+![Robotic Arm DOF](https://github.com/ryanferns30/Automated-Guided-Robotic-Armed-Vehicle-AGRAV-/blob/5443c8b610e9b472dd152e8d80bdf4b893df2ad8/Robotic%20Arm%20DOF.png)
+
 ## Project Structure
 
 AGRAV/
@@ -99,9 +102,9 @@ A custom Android app was developed using **MIT App Inventor** to manually contro
 
 ## Team
 
-- Sahil Bhuta (A007)
-- Paurash Deboo (A018)
-- Ryan Fernandes (A028)
+- Sahil Bhuta 
+- Paurash Deboo 
+- Ryan Fernandes 
 
 **Guide:** Prof. Giridhar Chavan
 
