@@ -58,12 +58,13 @@ A WMS is software that manages inventory, tracks item locations, and assigns tas
 
 ## Project Structure
 
+```text
 AGRAV/
-├── cad/              # Fusion 360 CAD files
-├── code/             # Arduino + Android app source
-├── analysis/         # ANSYS simulation results
-├── images/           # Project images and screenshots
-├── report/           # Final project report (PDF)
+├── cad/        # Fusion 360 CAD files
+├── code/       # Arduino + Android app source
+├── analysis/   # ANSYS simulation results
+├── images/     # Project images and screenshots
+├── report/     # Final project report (PDF)
 └── README.md
 
 ## Android App
