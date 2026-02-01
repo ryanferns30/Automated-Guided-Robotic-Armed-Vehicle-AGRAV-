@@ -66,6 +66,7 @@ AGRAV/
 ├── images/     # Project images and screenshots
 ├── report/     # Final project report (PDF)
 └── README.md
+```
 
 ## Android App
 
