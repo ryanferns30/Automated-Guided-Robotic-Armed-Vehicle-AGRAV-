@@ -106,10 +106,9 @@ A custom Android app was developed using **MIT App Inventor** to manually contro
 
 ## Documentation
 
-- Full project report available in `/report`
-- Arduino and Android app code in `/code`
-- CAD models in `/cad`
-- ANSYS results in `/analysis`
+- Full project report available in `/Project Report.pdf`
+- Arduino and Android app code in `/App` and '/Robotic Arm Code.ino'
+- CAD models in `/Cad files`
 
 ## Team
 
